@@ -14,8 +14,8 @@ namespace Mozzie.Worker
     {
         private static async Task Main(string[] args)
         {
-            const string AWS_ACCESS_KEY_ID = "AKIAVSTVILGI5UEI4K44";
-            const string AWS_SECRET_ACCESS_KEY = "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";
+            const string AWS_ACCESS_KEY_ID = "AWS_ACCESS_KEY_ID";
+            const string AWS_SECRET_ACCESS_KEY = "AWS_SECRET_ACCESS_KEY";
 
             Console.WriteLine("Hello World!");
 
