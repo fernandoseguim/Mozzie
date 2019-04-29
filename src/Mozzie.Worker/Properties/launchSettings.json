@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Mozzie.Worker": {
+      "commandName": "Project"
+    }
+  }
+}
